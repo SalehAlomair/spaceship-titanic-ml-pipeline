@@ -57,7 +57,7 @@ Competition files used:
 
 ## Results
 - **Kaggle Public Leaderboard Score:** `0.80570`
-- **Leaderboard Position:** `Top 433`
+- **Public Leaderboard Position (snapshot):** `433 / 2020` (**Top 21.4%**)
 
 This score reflects the final submission generated from the notebook pipeline in this repository.
 
@@ -73,5 +73,3 @@ pip install -r requirements.txt
 jupyter notebook
 ```
 Then open `notebook.ipynb` and run cells top-to-bottom.
-- This project is educational and portfolio-focused.
-- To present this project strongly in your CV, include the score (`0.80570`), rank (Top 433), and repository link.
