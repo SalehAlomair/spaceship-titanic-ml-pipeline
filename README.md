@@ -55,6 +55,12 @@ Competition files used:
 - Generated final predictions and saved:
   - `submission_final.csv`
 
+## Results
+- **Kaggle Public Leaderboard Score:** `0.80570`
+- **Leaderboard Position:** `Top 433`
+
+This score reflects the final submission generated from the notebook pipeline in this repository.
+
 ## Repository Structure
 - `notebook.ipynb`: full project notebook (EDA to submission)
 - `submission_final.csv`: submission file for Kaggle
@@ -67,3 +73,5 @@ pip install -r requirements.txt
 jupyter notebook
 ```
 Then open `notebook.ipynb` and run cells top-to-bottom.
+- This project is educational and portfolio-focused.
+- To present this project strongly in your CV, include the score (`0.80570`), rank (Top 433), and repository link.
